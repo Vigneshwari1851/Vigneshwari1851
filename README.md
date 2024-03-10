@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Looking for **a new opportunity**
 
-- 🌱 I’m currently learning **React, Bootstrap, Ajax, Nodejs**
+- 🌱 I’m currently learning **Data Structure and algorithm**
 
 - 👯 I’m looking to collaborate on **Frontend anProjects**
 
