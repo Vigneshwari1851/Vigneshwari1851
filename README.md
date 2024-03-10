@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshwari1851&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshwari1851" /> </p>
 
-- 🔭 I’m currently Looking for **a new opportunity**
-
-- 🌱 I’m currently learning **Data Structure And Algorithm**
+- 🔭 I’m currently learning **Data Structure And Algorithm**
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
