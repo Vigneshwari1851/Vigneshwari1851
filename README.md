@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@vigneshwari1851](https://medium.com/@vigneshwari1851)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Python, java, Processing JS, Bootstrap, Ajax**
+- 💬 Ask me about **HTML, CSS, JS, React, Python, java, Processing JS, Bootstrap, Ajax,c++,DataStructure**
 
 - 📫 How to reach me **vigneshwari1851@gmail.com**
 
